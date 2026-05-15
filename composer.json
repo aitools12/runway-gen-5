@@ -1,0 +1,20 @@
+{
+  "name": "aitools12/runway-gen-5",
+  "description": "Runway Gen-5 AI video generator — official landing page, metadata, and brand assets.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.runwaygen5.org",
+  "keywords": ["runway_gen_5", "runway-gen-5", "ai", "generator"],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "support": {
+    "source": "https://github.com/aitools12/runway-gen-5",
+    "docs": "https://www.runwaygen5.org"
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
